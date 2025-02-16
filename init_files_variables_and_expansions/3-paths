@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -1
+find -mindepath -type d | wc -1
